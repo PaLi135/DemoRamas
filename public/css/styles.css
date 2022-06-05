@@ -1,0 +1,42 @@
+body{
+background-color: #222;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+color: #999;
+margin: 50px;
+}
+
+.contenedorFila{
+    display: flex;
+    border-bottom: #666 1px solid;
+    max-width: 800px;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.contenedorNombre{
+    margin-left: 20px;
+}
+
+
+.contenedorAcciones{
+    display: flex;
+    justify-content:space-around;
+    margin-right: 20px;
+   
+}
+
+.contenedorAcciones p{
+    margin: 0px 10px;
+    
+}
+
+.formulario{
+    margin: 0 auto;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #FFF;
+}

@@ -1,0 +1,18 @@
+X Crear carpeta para el repositorio local
+X Crear repositorio en github
+
+X git init
+X git config user.name "PaLi135"
+X git config.email "pbertuccio@gmail.com"
+X git remote add origin (url repositorio github)
+
+X npm init -y (cambiar archivo app.js en package.json)
+X npm install
+X npm install express
+X npm install ejs
+X npm install method-override --save (put/delete)
+npm install multer (subir fotos)
+npm install express-validator (validar campos de forms)
+npm install express-session 
+npm install cookie-parser
+npm install bcryptjs (encriptar pass)
